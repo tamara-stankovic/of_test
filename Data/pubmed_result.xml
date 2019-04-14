@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedBookArticle>
+    <BookDocument>
+        <PMID Version="1">20301772</PMID>
+        <ArticleIdList>
+            <ArticleId IdType="bookaccession">NBK9587</ArticleId>
+        </ArticleIdList>
+        <Book>
+            <Publisher>
+                <PublisherName>University of Washington, Seattle</PublisherName>
+                <PublisherLocation>Seattle (WA)</PublisherLocation>
+            </Publisher>
+            <BookTitle book="gene">GeneReviews<sup>®</sup></BookTitle>
+            <PubDate>
+                <Year>1993</Year>
+            </PubDate>
+            <BeginningDate>
+                <Year>1993</Year>
+            </BeginningDate>
+            <EndingDate>
+                <Year>2019</Year>
+            </EndingDate>
+            <AuthorList Type="editors">
+                <Author>
+                    <LastName>Adam</LastName>
+                    <ForeName>Margaret P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author>
+                    <LastName>Ardinger</LastName>
+                    <ForeName>Holly H</ForeName>
+                    <Initials>HH</Initials>
+                </Author>
+                <Author>
+                    <LastName>Pagon</LastName>
+                    <ForeName>Roberta A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author>
+                    <LastName>Wallace</LastName>
+                    <ForeName>Stephanie E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+                <Author>
+                    <LastName>Bean</LastName>
+                    <ForeName>Lora JH</ForeName>
+                    <Initials>LJH</Initials>
+                </Author>
+                <Author>
+                    <LastName>Stephens</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author>
+                    <LastName>Amemiya</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Medium>Internet</Medium>
+        </Book>
+        <ArticleTitle book="gene" part="microcephaly">Primary Autosomal Recessive Microcephalies and Seckel Syndrome Spectrum Disorders</ArticleTitle>
+        <Language>eng</Language>
+        <AuthorList Type="authors">
+            <Author>
+                <LastName>Verloes</LastName>
+                <ForeName>Alain</ForeName>
+                <Initials>A</Initials>
+                <AffiliationInfo>
+                    <Affiliation>Denis Diderot Medical School, Sorbonne Paris Cité, Paris, France</Affiliation>
+                </AffiliationInfo>
+                <AffiliationInfo>
+                    <Affiliation>Department of Genetics, APHP - Hôpital Robert Debré, Paris, France</Affiliation>
+                </AffiliationInfo>
+            </Author>
+            <Author>
+                <LastName>Drunat</LastName>
+                <ForeName>Séverine</ForeName>
+                <Initials>S</Initials>
+                <AffiliationInfo>
+                    <Affiliation>Department of Genetics, APHP - Hôpital Robert Debré, Paris, France</Affiliation>
+                </AffiliationInfo>
+            </Author>
+            <Author>
+                <LastName>Gressens</LastName>
+                <ForeName>Pierre</ForeName>
+                <Initials>P</Initials>
+                <AffiliationInfo>
+                    <Affiliation>INSERM U676, Denis Diderot Medical School, Sorbonne Paris Cité</Affiliation>
+                </AffiliationInfo>
+                <AffiliationInfo>
+                    <Affiliation>Department of Pediatric Neurology, APHP - Hôpital Robert Debré, Paris, France</Affiliation>
+                </AffiliationInfo>
+            </Author>
+            <Author>
+                <LastName>Passemard</LastName>
+                <ForeName>Sandrine</ForeName>
+                <Initials>S</Initials>
+                <AffiliationInfo>
+                    <Affiliation>Denis Diderot Medical School, Sorbonne Paris Cité, Paris, France</Affiliation>
+                </AffiliationInfo>
+                <AffiliationInfo>
+                    <Affiliation>Department of Genetics, APHP - Hôpital Robert Debré, Paris, France</Affiliation>
+                </AffiliationInfo>
+            </Author>
+        </AuthorList>
+        <PublicationType UI="D016454">Review</PublicationType>
+        <Abstract>
+            <AbstractText Label="CLINICAL CHARACTERISTICS">Primary autosomal recessive microcephalies (MCPH) and Seckel syndrome (SCKS) spectrum disorders are characterized by microcephaly and the absence of visceral malformations. Although MCHP and SCKS were previously distinguished by height (maximum height in SCKS was equivalent to the minimum height in MCPH), stature is no longer a discriminating feature, leading to the conclusion that these phenotypes constitute a spectrum rather than distinct entities. Microcephaly is characterized by: Onset during the second trimester of gestation; Occipito-frontal head circumference (OFC) at birth equal to or less than -2 SD below the mean for sex, age, and ethnicity; Slower than average increase in OFC after birth. Variable findings in the MCPH-SCKS spectrum disorders include: Brain structure (which is normal in the majority); Degree of cognitive impairment (usually mild to moderate without significant motor delay in the majority of persons with MCPH and more severe in those with SCKS and MCPH with brain malformations); Degree of short stature; Craniosynostosis (which may be secondary to poor brain growth).</AbstractText>
+            <AbstractText Label="DIAGNOSIS/TESTING">The diagnosis of MCPH-SCKS spectrum disorders is based on clinical findings, brain imaging that shows reduced brain volume with grossly normal architecture, family history consistent with autosomal recessive inheritance, and molecular genetic testing when available. The genes in which biallelic mutation is known to cause MCPH-SCKS spectrum disorders are separated into those that are currently known to be associated with: MCPH phenotype only: <i>MCPH1</i> (locus name MCPH1), <i>WDR62</i> (MCPH2), <i>CDK5RAP2</i> (MCPH3), <i>KNL1</i> (MCPH4), <i>ASPM</i> (MCPH5), <i>STIL</i> (MCPH7), <i>CEP135</i> (MCPH8), and <i>CDK6</i> (MCPH12); SCKS phenotype only: <i>ATR</i> (locus name SCKL1), <i>NIN</i> (SCKL7), and <i>ATRIP</i>; and MCPH, SCKS, and/or intermediate phenotypes: <i>RBBP8</i> (locus name SCKL2), <i>CEP152</i> (MCPH9/SCKL5), <i>CENPJ</i> (MCPH6/SCKL4), <i>CEP63</i> (SCKL6), and <i>PHC1</i> (MCPH11). Of note, roughly one half to three quarters of western Europeans or North Americans with MCPH have no identified gene defect; in contrast, the proportion of individuals with identified pathogenic variants appears higher in persons from the Indo-Pakistan area.</AbstractText>
+            <AbstractText Label="MANAGEMENT"><i>Treatment of manifestations:</i> Supportive therapy including special education, speech and language therapy, behavioral therapy, occupational therapy, and community services for families. Ritalin<sup>®</sup> may be helpful in managing hyperkinesia. Seizures are usually responsive to monotherapy with standard antiepileptic drugs (AEDs). <i>Surveillance:</i> Neurologic follow up from birth to adulthood to detect behavioral difficulties, hyperactivity, attention disorder, and motor problems (spasticity), and to monitor for evidence of seizures, which can be late onset. Periodic neuropsychological evaluation to adapt interventions and schooling to the individual's abilities.</AbstractText>
+            <AbstractText Label="GENETIC COUNSELING">MCPH-SCKS spectrum disorders are inherited in an autosomal recessive manner. At conception, each child of two carrier parents has a 25% chance of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier. Carrier testing for at-risk relatives and prenatal diagnosis for pregnancies at increased risk are possible if the pathogenic variants in the family are known.</AbstractText>
+            <CopyrightInformation>Copyright © 1993-2019, University of Washington, Seattle. GeneReviews is a registered trademark of the University of Washington, Seattle. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <Sections>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Summary">Summary</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Diagnosis">Diagnosis</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Clinical_Characteristics">Clinical Characteristics</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Genetically_Related_Allelic">Genetically Related (Allelic) Disorders</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Differential_Diagnosis">Differential Diagnosis</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Management">Management</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Genetic_Counseling">Genetic Counseling</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Resources">Resources</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Molecular_Genetics">Molecular Genetics</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.References">References</SectionTitle>
+            </Section>
+            <Section>
+                <SectionTitle book="gene" part="microcephaly" sec="microcephaly.Chapter_Notes">Chapter Notes</SectionTitle>
+            </Section>
+        </Sections>
+        <ContributionDate>
+            <Year>2009</Year>
+            <Month>9</Month>
+            <Day>1</Day>
+        </ContributionDate>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <GrantList CompleteYN="Y">
+            <Grant>
+                <GrantID>HHSN276201400262U</GrantID>
+                <Acronym>LM</Acronym>
+                <Agency>NLM NIH HHS</Agency>
+                <Country>United States</Country>
+            </Grant>
+        </GrantList>
+    </BookDocument>
+    <PubmedBookData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20301772</ArticleId>
+        </ArticleIdList>
+    </PubmedBookData>
+</PubmedBookArticle>
+
+</PubmedArticleSet>
